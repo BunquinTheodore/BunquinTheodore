@@ -44,6 +44,6 @@ Beyond coding, I'm passionate about vlogging, photography, chess, video/photogra
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 
 ## Hours Coded per Language
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BunquinTheodore)](https://github.com/BunquinTheodore/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@BunquinTheodore)](https://github.com/BunquinTheodore/github-readme-stats)
 
 
