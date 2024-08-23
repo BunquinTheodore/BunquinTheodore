@@ -8,6 +8,7 @@ I'm Theodore Von Joshua M. Bunquin, a dedicated computer science major at the Na
 - 🧩 **Maze Algorithm Solver** (C++)
 - 🏫 **School System Management Program** (Java)
 - 💻 **School Portal** (Python)
+- 📽 **Photography Website** (HTML/CSS)
 
 ## 🚀 Skills
 - C++
@@ -23,8 +24,8 @@ My ultimate goal is to establish and grow a software company, with dreams of bui
 ## 🔍 Approach to Problem-Solving
 I believe in honesty and perseverance. If I don't know how to tackle a problem, I'll admit it—but you can trust that I'll figure it out and find the best solution.
 
-## 🎥 Hobbies & Interests
-Beyond coding, I'm passionate about vlogging, photography, chess, video/photography editing, business, sales, and modeling. These interests keep me balanced and fuel my creativity.
-
 ## 📈 Work Philosophy
 "Progress is better than perfection." I focus on continuous improvement, knowing that every opportunity to learn and grow makes me a better programmer and a more capable professional.
+
+## 🎥 Hobbies & Interests
+Beyond coding, I'm passionate about vlogging, photography, chess, video/photography editing, business, sales, and modeling. These interests keep me balanced and fuel my creativity.
