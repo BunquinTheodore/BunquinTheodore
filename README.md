@@ -31,8 +31,7 @@ I believe in honesty and perseverance. If I don't know how to tackle a problem, 
 Beyond coding, I'm passionate about vlogging, photography, chess, video/photography editing, business, sales, and modeling. These interests keep me balanced and fuel my creativity.
 
 ## Github Stats
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=BunquinTheodore&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/BunquinTheodore/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=BunquinTheodore&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/BunquinTheodore/github-readme-stats#gh-light-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BunquinTheodore&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## Top Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BunquinTheodore&repo=School-Management-System)](https://github.com/BunquinTheodore/School-Management-System)
