@@ -45,5 +45,3 @@ Beyond coding, I'm passionate about vlogging, photography, chess, video/photogra
 
 ## Hours Coded per Language
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@BunquinTheodore)](https://github.com/BunquinTheodore/github-readme-stats)
-
-
