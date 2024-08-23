@@ -29,3 +29,6 @@ I believe in honesty and perseverance. If I don't know how to tackle a problem, 
 
 ## 🎥 Hobbies & Interests
 Beyond coding, I'm passionate about vlogging, photography, chess, video/photography editing, business, sales, and modeling. These interests keep me balanced and fuel my creativity.
+
+## Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BunquinTheodore)](https://github.com/BunquinTheodore/github-readme-stats)
