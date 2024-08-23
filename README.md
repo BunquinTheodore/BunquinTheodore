@@ -33,3 +33,17 @@ Beyond coding, I'm passionate about vlogging, photography, chess, video/photogra
 ## Github Stats
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=BunquinTheodore&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/BunquinTheodore/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=BunquinTheodore&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/BunquinTheodore/github-readme-stats#gh-light-mode-only)
+
+## Top Repository
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BunquinTheodore&repo=School-Management-System)](https://github.com/BunquinTheodore/School-Management-System)
+
+## Most Used Language on Github
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BunquinTheodore)](https://github.com/BunquinTheodore/github-readme-stats)
+
+## Most Amount of Code in Github
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+
+## Hours Coded per Language
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BunquinTheodore)](https://github.com/BunquinTheodore/github-readme-stats)
+
+
