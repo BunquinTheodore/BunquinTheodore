@@ -9,6 +9,7 @@
 
 🎓 **Computer Science Major** | National Engineering University  
 🌐 **Aspiring Software Developer/Engineer**
+📩 **Email: bunquintheodore@gmail.com**
 
 I'm Theodore Von Joshua M. Bunquin, a dedicated computer science major at the National Engineering University, with a passion for web development and a knack for solving complex problems through code. My portfolio includes a variety of projects that reflect my skills and dedication:
 
