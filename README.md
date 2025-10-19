@@ -1,4 +1,4 @@
-# 👨‍💻 Theodore Von Joshua M. Bunquin  - no available
+# 👨‍💻 Theodore Von Joshua M. Bunquin  - Freelancer
 ## 🌐 Socials
 📩 **Email**: bunquintheodore@gmail.comm
 
