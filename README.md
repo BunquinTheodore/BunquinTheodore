@@ -14,7 +14,7 @@ I'm Theodore Von Joshua M. Bunquin, a dedicated computer science major at the Na
 
 - 🧩 **Maze Algorithm Solver** (C++)
 - 🏫 **School System Management Program** (Java)
-- 💻 **School Portal** (Python)
+- 💻 **School Portal** (Python) roar
 - 📽 **Photography Website** (HTML/CSS)
 
 ## 🚀 Skills
