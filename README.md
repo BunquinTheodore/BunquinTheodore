@@ -1,4 +1,4 @@
-# 👨‍💻 Theodore Von Joshua M. Bunquin - hi
+# 👨‍💻 Theodore Von Joshua M. Bunquin
 ## 🌐 Socials
 📩 **Email**: bunquintheodore@gmail.com
 
