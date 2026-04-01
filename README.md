@@ -10,38 +10,15 @@
 🎓 **Computer Science Major** | National Engineering University**  
 🌐 **Aspiring Software Developer/Engineer**
 
-I'm Theodore Von Joshua M. Bunquin, a dedicated computer science major at the National Engineering University, with a passion for web development and a knack for solving complex problems through code. My portfolio includes a variety of projects that reflect my skills and dedication:
+I’m a software engineer and designer passionate about building technology that is both scalable and human-centered. Skilled in C++, Python, Java, SQL, React, and modern software engineering practices, I specialize in reconciling complex data and edge cases to deliver complete, fair, and reliable solutions.
 
-- 🧩 **Maze Algorithm Solver** (C++)
-- 🏫 **School System Management Program** (Java)
-- 💻 **School Portal** (Python) roar
-- 📽 **Photography Website** (HTML/CSS)
+Beyond code, I bring a designer’s eye and a communicator’s heart—crafting intuitive, minimalist interfaces and emotionally resonant messaging that empower users and teams. My experience spans AI prompt engineering, blockchain fundamentals, and data science for climate resilience, always guided by a drive for clarity, usability, and impact.
 
-## 🚀 Skills
-- C++
-- Python
-- Java
-- HTML
-- CSS
-- Raylib
+I thrive at the intersection of technical depth and empathetic design, ensuring that every project I touch not only solves problems but also inspires trust, connection, and growth.
 
-## 💡 Career Vision
-My ultimate goal is to establish and grow a software company, with dreams of building something as impactful as Facebook or PayPal. Whether I sell it or continue to lead it, I aim to create a legacy that leaves a mark on the industry.
-
-## 🔍 Approach to Problem-Solving
-I believe in honesty and perseverance. If I don't know how to tackle a problem, I'll admit it—but you can trust that I'll figure it out and find the best solution.
-
-## 📈 Work Philosophy
-"Progress is better than perfection." I focus on continuous improvement, knowing that every opportunity to learn and grow makes me a better programmer and a more capable professional.
-
-## 🎥 Hobbies & Interests
-Beyond coding, I'm passionate about vlogging, photography, chess, video/photography editing, business, sales, and modeling. These interests keep me balanced and fuel my creativity.
 
 ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BunquinTheodore&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-## Top Repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BunquinTheodore&repo=School-Management-System)](https://github.com/BunquinTheodore/School-Management-System)
 
 ## Hours Coded per Language
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@BunquinTheodore)](https://github.com/BunquinTheodore/github-readme-stats)
@@ -56,18 +33,6 @@ Beyond coding, I'm passionate about vlogging, photography, chess, video/photogra
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BunquinTheodore&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BunquinTheodore&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=BunquinTheodore&icon=5&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/2303102n) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/theodorebunquin) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
