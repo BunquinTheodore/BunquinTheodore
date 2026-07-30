@@ -1,5 +1,5 @@
 <h1 align="center">Theodore Von Joshua M. Bunquin</h1>
-<h3 align="center">AI Software Engineer</h3>
+<h3 align="center"> CEO of Theoraux | AI Software Engineer</h3>
 
 <p align="center">
   <a href="mailto:bunquintheodore@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
