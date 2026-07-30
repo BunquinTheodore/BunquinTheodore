@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Theodore Von Joshua M. Bunquin</h1>
+<h1 align="center">Theodore Von Joshua M. Bunquin</h1>
 <h3 align="center">Aspiring Software Developer/Engineer · Computer Science Major at The National Engineering University</h3>
 
 <p align="center">
