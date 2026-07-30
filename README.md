@@ -1,4 +1,4 @@
-<h1 align="center">Theodore Von Joshua M. Bunquin</h1>
+<h1 align="center">Theodore Bunquin</h1>
 <h3 align="center"> CEO of Theoraux | AI Software Engineer</h3>
 
 <p align="center">
