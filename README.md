@@ -127,9 +127,7 @@ June 2027 · GWA: 1.3/1.0 · Batangas City, Alangilan
   <img height="165" src="https://github-readme-stats-fawn-three-35.vercel.app/api/top-langs/?username=BunquinTheodore&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-mauve-five.vercel.app/?user=BunquinTheodore&theme=radical&hide_border=true" />
-</p>
+
 
 ---
 
