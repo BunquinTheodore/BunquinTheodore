@@ -63,7 +63,7 @@ I thrive at the intersection of technical depth and empathetic design, ensuring 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BunquinTheodore&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats-mauve-five.vercel.app/?user=BunquinTheodore&theme=radical&hide_border=true" />
 </p>
 
 ---
