@@ -1,5 +1,5 @@
 <h1 align="center">Theodore Von Joshua M. Bunquin</h1>
-<h3 align="center">Aspiring Software Developer/Engineer · Computer Science Major at The National Engineering University</h3>
+<h3 align="center">AI Software Engineer</h3>
 
 <p align="center">
   <a href="mailto:bunquintheodore@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -13,7 +13,8 @@
 
 ### 🌐 About Me
 
-I'm a software engineer and designer passionate about building technology that is both scalable and human-centered. Skilled in C++, Python, Java, SQL, React, and modern software engineering practices, I specialize in reconciling complex data and edge cases to deliver complete, fair, and reliable solutions.
+I'm a software engineer and designer passionate about building technology that is both scalable and human-centered. Skilled in delivering fast, production-ready applications through AI
+powered development workflows.
 
 Beyond code, I bring a designer's eye and a communicator's heart—crafting intuitive, minimalist interfaces and emotionally resonant messaging that empower users and teams. My experience spans AI prompt engineering, blockchain fundamentals, and data science for climate resilience, always guided by a drive for clarity, usability, and impact.
 
@@ -41,17 +42,81 @@ I thrive at the intersection of technical depth and empathetic design, ensuring 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-%23626CD9.svg?style=for-the-badge&logo=stripe&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
+### 🏆 Key Achievements
 
-| Project | Description | Stack |
-|---|---|---|
-| **[Fredrinn](https://github.com/BunquinTheodore/Fredrinn)** — [Live Demo](https://fredrinn.vercel.app) | SaaS gym member management system with check-ins, attendance tracking, an owner dashboard, and multi-tenant data isolation via RLS. | React · TypeScript · Express · Supabase |
-| **[Bluemoon Business Management App](https://github.com/BunquinTheodore/Bluemoon_Automation)** — [Live Demo](https://bluemoon-six.vercel.app) | Role-based business operations platform (Owner/Manager/Employee) with task management, inventory control, financial tracking, and QR attendance. | React · Vite · Tailwind · Firebase |
-| **[CV/Resume Builder](https://github.com/BunquinTheodore/CV--Resume-using-Php_Laravel)** | Web app for generating professional CVs and resumes, built on the Laravel framework. | PHP · Laravel · MySQL |
-| **[Bluemoon (Mobile)](https://github.com/BunquinTheodore/Bluemoon)** | Cross-platform Flutter app exploring mobile/desktop/web builds from a single codebase. | Flutter · Dart |
+- Generated **6-figure monthly revenue** through automation systems deployed across multiple platforms
+- **Top 10 Finalist** — Philippine Junior Data Science Challenge (2025), competing against 500+ participants nationwide
+- **Project Lead** on 4 hackathon projects (Naga App, Kadakareer x HomeCredit, AI Vibe Competition), with 2 advancing to finals
+- Built and deployed **10+ production applications** serving real users across health, fintech, and delivery sectors
+- Achieved a **1.3/1.0 GWA** while freelancing and leading multiple concurrent development projects
+
+---
+
+### 💼 Professional Experience
+
+**Lead Developer & Automation Engineer** — Bluemoon Automation (Multi-Platform System) · 2025 – Present
+- Built and deployed automation infrastructure generating 6-figure monthly revenue across client café operations
+- Reduced manual administrative time by 75% through role-based dashboards
+- Stack: Node.js, Firebase, Vercel, RESTful APIs
+
+**Project Leader & Flutter Developer** — SpartaHub (Hyperlocal Delivery Platform) · 2025 – 2026
+- Led a 4-person team building an on-demand delivery app for the 20,000+ BSU-Alangilan student community
+- Built real-time GPS tracking, in-app messaging, and multi-payment integration
+- Implemented Firebase Realtime Database for live order updates and rider location tracking
+- Stack: Flutter, Firebase, Google Maps API, PayMongo
+
+**Lead Developer** — EduManageX (School Management System) · 2024
+- Architected a Java platform serving 500+ students for enrollment, tuition tracking, and reporting
+- Designed a MySQL database with 15+ normalized tables for student records and financial data
+- Reduced enrollment processing time from 2 hours to 15 minutes through automation
+- Stack: Java, MySQL, JDBC, Swing GUI
+
+---
+
+### 🌟 Highlight Projects
+
+**ALERTO — Disaster Early Warning System** · Project Lead, Team Vibe Coders — Philippine Junior Data Science Challenge, 2025
+- Led a 5-person team to a Top 10 finish among 500+ participants nationwide
+- Built a web app delivering real-time disaster alerts and government class suspension notifications
+- Developed a business model targeting local government contracts aligned with UN SDG frameworks
+- Stack: Flutter, Firebase Realtime Database, Push Notifications, REST APIs
+
+**CareConnect — Integrated Health Referral System** · Lead Developer & Designer — Naga Hackathon 2025, October 2025 – Present
+- Building a patient referral platform connecting 50+ barangay health centers, RHUs, and hospitals
+- Architected a multi-tier healthcare workflow managing patient transfers across 3 facility types
+- Designed HIPAA-compliant data handling and secure medical record transmission
+- Stack: Flutter, Firebase, Healthcare APIs, Data Encryption
+
+**FinSight — Financial Analytics Platform** · UI/UX Designer — HomeCredit x Kadakareer Hackathon, 2025
+- Created a fintech app providing credit insights and financial planning for underbanked users
+- Designed a dashboard visualizing loan options, payment schedules, and credit factors
+- Stack: Figma, React, Financial APIs, Data Visualization
+
+---
+
+### 🎓 Education
+
+**Bachelor of Science in Computer Science** — The National Engineering University | Batangas State University
+June 2027 · GWA: 1.3/1.0 · Batangas City, Alangilan
+
+---
+
+### 📜 Certifications
+
+- AWS Certified Cloud Practitioner *(In Progress, Expected Sep 2026)*
+- AWS Certified Solutions Architect – Associate *(In Progress, 2026)*
+- Google Cloud Professional Cloud Architect *(In Progress, 2027)*
 
 ---
 
